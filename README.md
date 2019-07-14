@@ -10,3 +10,7 @@ Instalar Maven para compilar: https://platzi.com/tutoriales/1236-java-avanzado/2
 iniciar desde linea de comandos con -> mvn spring-boot:run
 
 Funcionalidad para ver academicos aplicada
+
+Dirección al compilar
+
+http://localhost:8080/academics.xhtml
